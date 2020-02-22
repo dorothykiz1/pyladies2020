@@ -1,4 +1,6 @@
 # pyladies2020
 ## Attendees
 
-1. Dorothy Kabarozi Bugiungo
+1. Dorothy Kabarozi Buguingo
+2. Orishaba Famious 
+
