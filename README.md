@@ -1,2 +1,4 @@
 # pyladies2020
-Lesson for git and github
+## Attendees
+
+1. Dorothy Kabarozi
