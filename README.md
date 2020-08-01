@@ -2,3 +2,4 @@
 ## Attendees
 
 1. Dorothy Kabarozi
+2. Nabiryo Shamim
